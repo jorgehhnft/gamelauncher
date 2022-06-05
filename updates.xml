@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+   <patch>
+      <title>1.0.0</title>
+      <desc>First Beta Version Updater</desc>
+      <link>https://SomeUrl.com</link>
+   </patch>
+</node>
